@@ -20,5 +20,5 @@ To customize the theme font without losing text styling, the following steps are
 4. Optionally, you can change the default font size of `11.0` using the same method
 5. Save the file, and reopen Xcode 🙌
 
-## Attribution
+## Credits
 Special thanks to [Monokai](https://monokai.nl/) for creating the One True Color Theme <3
