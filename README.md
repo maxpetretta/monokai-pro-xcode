@@ -1,7 +1,7 @@
 # Monokai Pro for Xcode
-![Example code colored using the theme](https://user-images.githubusercontent.com/19291506/119919501-339a0780-bf30-11eb-8dae-8918493a2e92.png)
-
 A direct port of the [Monokai Pro theme](https://monokai.pro/) from Visual Studio Code to Xcode, courtesy of [Transmog](https://github.com/inket/Transmog).
+
+![Example code colored using the theme](https://user-images.githubusercontent.com/19291506/119922140-d18fd100-bf34-11eb-9bc0-fcf047512a6a.png) 
 
 ## Installation
 Run the following commands to install the theme.  Xcode is required:
