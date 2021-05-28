@@ -1,5 +1,5 @@
 # Monokai Pro for Xcode
-![Example code colored using the theme](example.png)
+![Example code colored using the theme](https://user-images.githubusercontent.com/19291506/119919501-339a0780-bf30-11eb-8dae-8918493a2e92.png)
 
 A direct port of the [Monokai Pro theme](https://monokai.pro/) from Visual Studio Code to Xcode, courtesy of [Transmog](https://github.com/inket/Transmog).
 
